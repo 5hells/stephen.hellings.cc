@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+remote_theme: yaoyao-liu/minimal-light
+title: stephen hellings
+position: high school student
+description: levittownian programmer and quote-unquote sysadmin
+show_downloads: false
+
+github_link: https://github.com/5hells
+enable_footnote: false
